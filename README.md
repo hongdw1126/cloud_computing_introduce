@@ -53,9 +53,9 @@ uvicorn main:app --reload
 
 ## 배포 주소
 
-- GitHub 저장소: 배포 후 입력
-- Vercel 프론트엔드: 배포 후 입력
-- Render Swagger UI: 배포 후 입력
+- GitHub 저장소: https://github.com/hongdw1126/cloud_computing_introduce
+- Vercel 프론트엔드: https://cloud-computing-introduce.vercel.app
+- Render Swagger UI: https://personal-profile-api-fhmc.onrender.com/docs
 
 ## 배포 방법
 
@@ -64,4 +64,3 @@ uvicorn main:app --reload
 3. 발급된 Render 주소를 `script.js`의 `API_BASE_URL`에 반영합니다.
 4. Vercel에서 같은 저장소를 연결하고 프로젝트 루트를 정적 사이트로 배포합니다.
 5. Vercel 페이지에서 **요청 보내기**를 눌러 `200 OK`와 JSON 응답을 확인합니다.
-

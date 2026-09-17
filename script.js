@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://personal-profile-api.onrender.com";
+const API_BASE_URL = "https://personal-profile-api-fhmc.onrender.com";
 const callButton = document.querySelector("#call-api");
 const result = document.querySelector("#api-result");
 const statusDot = document.querySelector("#status-dot");
@@ -37,4 +37,3 @@ callButton.addEventListener("click", async () => {
     callButton.innerHTML = "다시 요청하기 <b>→</b>";
   }
 });
-
