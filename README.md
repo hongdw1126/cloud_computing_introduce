@@ -4,7 +4,7 @@
 
 ## 주요 구성
 
-- 개인 소개: 학습 방향, 관심 분야, 기술 스택
+- 개인 소개: 금융공학, 퀀트 투자, Python 학습 방향과 관심 분야
 - 프론트엔드: HTML, CSS, JavaScript로 구현한 반응형 단일 페이지
 - API 연동: 브라우저에서 FastAPI의 `/api/profile`을 호출해 JSON 응답 표시
 - 백엔드: 상태 확인 및 프로필 데이터를 제공하는 FastAPI API

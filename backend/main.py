@@ -32,10 +32,9 @@ def health():
 def get_profile():
     return {
         "name": "홍동우",
-        "role": "Software Learner",
+        "role": "Student",
         "message": "호기심을 작동하는 경험으로 만듭니다.",
-        "interests": ["Frontend", "Backend", "API Connection"],
-        "skills": ["HTML", "CSS", "JavaScript", "Python", "FastAPI"],
+        "interests": ["Financial Engineering", "Quantitative investment"],
+        "skills": ["Python"],
         "connection": "success",
     }
-
